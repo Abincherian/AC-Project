@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Patua+One|Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Merienda|Pacifico|Patua+One');
+
+
+* {
+    box-sizing: border-box;
+  }
+
+
+.flex-container {
+    display: flex;
+    background-color: dodgerblue;
+}
+.flex-container>div{
+    background-color: gray;
+    margin: 10px;
+    padding: 5px;
+    font-size: 30px;
+    text-align: right;
+    font-family: 'Merienda', cursive;
+    
+}
+
+font-family: 'Patua One', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;
+
+h2 {
+Color:dodgerblue;  
+font-weight: bold;
+font-family: 'Patua One', cursive;
+}
+
+.aboutme {
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    background-color: white;
+    font-size: 150%;
+}
+
+.dropdown{
+
+    float:left;
+    width:200px;
+    height:40px;
+    background-color: whitesmoke;
+    opacity:.9;
+    line-height:40px;
+    text-align:center;
+    font-size:10px;
+    margin-right:2px;
+}
+
+.text {
+    background-color: rgb(44, 159, 226);
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+    text-align: left;
+    padding:1px;
+    opacity:0.8;
+    font-family: Times New Roman;   
+    
+}
+.footer {
+left:0;
+bottom:0;
+width:100%;
+background-color:gray;
+color:red;
+text-align:center;
+font-family: 'Pacifico', cursive;
+
+}
+
